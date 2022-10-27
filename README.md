@@ -7,7 +7,7 @@ This repository it's aims to send restful api  from kafka producer to kafka cons
 * Install-ubuntu-on-wsl2-on-windows from here https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview
 * Download  _confluent_ from here https://www.confluent.io/get-started/ for _ubuntu os_
 
-# Run the application
+# Run confluent 
 
 * Run this command from _ubuntu terminal_ [```confluent local services start```] 
 
